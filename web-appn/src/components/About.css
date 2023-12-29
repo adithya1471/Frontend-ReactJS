@@ -1,0 +1,102 @@
+.img-one{
+    width: 550px;
+    height: 450px;
+    padding: 5%;
+}
+section{
+    margin-top: 0.8rem;
+    margin-bottom: 3rem;
+}
+.body-p{
+    color: rgb(148, 154, 154);
+    font-family: 'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify; 
+    margin-right: 4rem;
+    font-size: large;
+    padding: 15px;
+}
+.body-content{
+    display: flex;
+}
+.body-heading{
+    color: #fff;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 3rem;
+    margin-right: 2rem;
+}
+.about-button{
+    margin: 0.7rem;
+    padding: 15px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    background: olivedrab;
+}
+.about-button:hover{
+    color: olivedrab;
+    background: black;
+    border: 1px solid olivedrab;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading-p{
+    color: rgb(148, 154, 154);
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: center;
+}
+.location-items{
+    display: flex;
+    text-align: center;
+    margin: 3rem;
+}
+.location-heading{
+    color: olivedrab;
+    font-weight: 600;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.location-p{
+    color: rgb(148, 154, 154);
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+.location-block{
+    display: inline-block;
+}
+.about{
+    display: flex;
+    color: #fff;
+    padding: 3rem;
+}
+.img-two{
+    width: 450px;
+    height: 350px;
+    margin-left: 20%;
+    margin-bottom: 2rem;
+}
+.about-exp{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    font-weight: 600;
+}
+.about-div-p{
+    color: rgb(148, 154, 154);
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.about-div{
+    text-align: center;
+}
